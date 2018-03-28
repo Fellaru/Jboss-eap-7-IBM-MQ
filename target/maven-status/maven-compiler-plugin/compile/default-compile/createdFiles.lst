@@ -1,0 +1,5 @@
+ru\fella\type\AccountBalanceRequest.class
+ru\fella\jdbc\DAO.class
+ru\fella\jms\EllaTaskQueueMDB.class
+ru\fella\jms\JMSService.class
+ru\fella\AccountServlet.class
